@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Another Hotel</Name>
+    <Phone>555-123-4567</Phone>
+    <Address NearestAirport="Phoenix-Mesa">
+      <Number>100</Number>
+      <Street>Main St</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Tempe Mission Palms</Name>
+    <Phone>480-894-1400</Phone> 
+    <Phone> 480-324-1490</Phone>
+    <Phone> 520-324-1929</Phone>
+    <Address NearestAirport="Sky Harbor"> 
+      <Number>45</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Residence Inn Tempe Downtown</Name>
+    <Phone>480-967-2300</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>510 S Forest Ave</Number>
+      <Street>S Forest Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Canopy by Hilton Tempe</Name>
+    <Phone>480-968-3451</Phone>
+    <Phone>800-445-8667</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>108 E University Dr</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Aloft Tempe</Name>
+    <Phone>480-621-6600</Phone>
+    <Phone>520-123-7823</Phone>
+    <Phone>480-652-7128</Phone>
+    <Phone>480-462-2812</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>951 E Playa Del Norte Dr</Number>
+      <Street>E Playa Del Norte Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+<Hotel>
+    <Name>Graduate Tempe</Name>
+    <Phone>480-967-9161</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>225 E Apache Blvd</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>The Vīb Hotel</Name>
+    <Phone>602-795-1770</Phone>
+    <Phone>800-531-5900</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>511 S Farmer Ave</Number>
+      <Street>S Farmer Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Sonesta Select Tempe</Name>
+    <Phone>480-966-2800</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1333 S Rural Rd</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Omni Tempe Hotel at ASU</Name>
+    <Phone>602-794-6664</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7 E University Dr</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Marriott AC Hotel</Name>
+    <Phone>480-642-6140</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>333 S Farmer Ave</Number>
+      <Street>S Farmer Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  </Hotels>
